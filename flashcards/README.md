@@ -14,7 +14,7 @@ No primeiro nível do flashcard esta o algoritmo sem identificação de nome, de
 O card segue o seguinte layout:
 
 
-[flashcrad_layout.pdf](https://github.com/Dionilton/studies-to-bb/files/10892023/flashcrad_layout.pdf)
+[Some title here](flashcrad_layout.pdf)
 
 
 Após a implementação do flahscards do algoritmos listados, será pensando, modelado e implementado também flashcards para Matriz de Confusão e algoritmos de Inteligencia Artificial.
