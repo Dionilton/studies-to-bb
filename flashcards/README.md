@@ -9,7 +9,7 @@ Algoritmos a serem desenvolvidos e implementados nos cars:
 * Selection Sort
 * Insertion Sort
 
-No primeiro nível do flashcard esta o algoritmo sem identificação de nome, depois na primeira dobra na parte superior do card o nome do algoritmo, em seguida na doprar inferir está a complexidade do algoritimo, e por fim, desdobrando mais uma vez está a complexidade no melhor caso e caso médio.
+No primeiro nível do flashcard esta o algoritmo sem identificação de nome, depois na primeira dobra na parte superior do card o nome do algoritmo, em seguida na dobra inferir está a complexidade do algoritimo, e por fim, desdobrando mais uma vez está a complexidade no melhor caso e caso médio.
 
 O card segue o seguinte layout:
 
